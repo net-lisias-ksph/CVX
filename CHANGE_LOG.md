@@ -1,5 +1,7 @@
 # CVX - Carrier Vessel Expansion :: Change Log
 
+* 2017-1007: 0.13.1 (Eskandare) for KSP 1.3.1
+	+ Dependency Updates
 * 2017-1004: 0.13 (Eskandare) for KSP 1.3.0
 	+ Version 0.13
 	+ Fixes:
