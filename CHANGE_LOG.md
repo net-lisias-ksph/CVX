@@ -1,5 +1,16 @@
 # CVX - Carrier Vessel Expansion :: Change Log
 
+* 2017-1004: 0.13 (Eskandare) for KSP 1.3.0
+	+ Version 0.13
+	+ Fixes:
+		- Fixed Fuel Capacity in Nimitz Hull
+		- Fixed Engine Thrust
+	+ Added:
+		- Added Reaction Wheel to aid in turning
+		- Added Support for USI Life Support
+		- Added Support for Aircraft Carrier Accessories (Nimitz Catapult and Toy Box Catapult [for Future Top Secret Vessel]
+		- Added Pre-made Craft Files
+		- Updated Dependencies
 * 2016-1013: 0.12 (Eskandare) for KSP 1.2
 	+ Various fixes and adjustments:
 		- Models and Dependencies updated to KSP 1.2
