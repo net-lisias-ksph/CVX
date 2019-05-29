@@ -1,4 +1,4 @@
-# CVX - Carrier Vessel Expansion :: UNNOFICIAL
+# CVX - Carrier Vessel Expansion :: UNOFFICIAL
 
 This is a unofficial, non authorized repository for **CVX - Carrier Vessel Expansion** for historical reference and troubleshooting.
 
